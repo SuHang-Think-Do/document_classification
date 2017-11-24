@@ -1,6 +1,6 @@
 # 优达学城机器学习进阶Nano学位毕业课题 - 文档文类
-这是本人优达学城机器学习进阶Nanodegree毕业课题
-#包含内容
+这是本人优达学城机器学习进阶Nanodegree毕业课题， 基于20News的文档分类
+# 包含内容
 ## 代码
 包含四部分软件
 ### NLP Document Classification Report Basic
